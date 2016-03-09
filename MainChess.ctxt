@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=board\ currX\ currY
+comment0.target=int[][]\ getKnightNeighbors(java.lang.String[][],\ int,\ int)
+comment1.params=arr
+comment1.target=boolean\ checkArray(boolean[][])
+comment2.params=board1\ currNum\ currLett\ boolBoard
+comment2.target=java.util.Stack\ goThroughNeighbors(java.lang.String[][],\ int,\ int,\ boolean[][])
+comment3.params=i
+comment3.target=java.lang.String\ getLetter(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
