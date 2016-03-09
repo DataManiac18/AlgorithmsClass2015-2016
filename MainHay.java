@@ -3,6 +3,7 @@ public class MainHay
 {
     public static boolean checkConnectivity(int[][] farms)
     {
+        //changed
         boolean connected = true;
         boolean[] roadsConn = new boolean[farms.length];
         roadsConn[0] = true;
